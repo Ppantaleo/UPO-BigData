@@ -37,7 +37,7 @@ Para reproducir este análisis, siga estos pasos:
 
 1. Clonar el repositorio a su máquina local.
 2. Abrir RStudio y establecer el directorio del repositorio clonado como su directorio de trabajo.
-3. Instalar los paquetes de R necesarios ejecutando `install.packages(c("dplyr", "ggplot2", "leaflet"))`.
+3. Instalar los paquetes de R necesarios ejecutando `install.packages(c("dplyr", "ggplot2", "leaflet", "readr", "tidyr", "DT", "plotly", "highcharter", "stringr", "janitor", "lubridate", "sf"))`.
 4. Ejecutar los scripts en el directorio `/src` en orden.
 
 ## Licencia y Reconocimientos
