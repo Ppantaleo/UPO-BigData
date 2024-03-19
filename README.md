@@ -7,14 +7,14 @@ Este proyecto se centra en el análisis del Global Terrorism Database (GTD), una
 
 ## Contexto
 
-El GTD ofrece datos detallados sobre ubicaciones geográficas, tácticas, perpetradores, objetivos y resultados de ataques terroristas, basándose en artículos de medios no clasificados. Esta rica fuente de datos permite una exploración profunda de las tendencias del terrorismo, los cambios a lo largo del tiempo y las diferencias regionales, ayudando a entender mejor el panorama global del terrorismo.
+El GTD ofrece datos detallados sobre ubicaciones geográficas, tácticas, perpetradores, objetivos y resultados de ataques terroristas, basándose en artículos de medios no clasificados. Esta rica fuente de datos permite una exploración profunda de las tendencias del terrorismo, los cambios a lo largo del tiempo y las diferencias regionales, ayudando a entender mejor el panorama global del terrorismo y su impacto en España.
 
 ## Objetivos del Proyecto
 
 - Explorar las tendencias del terrorismo global desde 1970 hasta 2017.
 - Identificar los países y regiones más afectados por el terrorismo.
-- Analizar los tipos de ataques más comunes y sus consecuencias.
-- Investigar los cambios en las tácticas terroristas a lo largo del tiempo.
+- Evidenciar los ataques presentes por año en España.
+- Contribuir al desarrollo de investigaciones en base a este conjunto de datos
 
 ## Metodología
 
