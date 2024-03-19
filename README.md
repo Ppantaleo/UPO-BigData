@@ -24,6 +24,9 @@ Este análisis se realiza utilizando R y RStudio, aprovechando paquetes como `dp
 2. **Análisis Exploratorio de Datos (AED)**: Estadísticas descriptivas y visualizaciones iniciales para comprender la distribución de los datos.
 3. **Visualización Avanzada**: Creación de gráficos y mapas detallados para explorar las tendencias y patrones del terrorismo.
 
+### Nota Metodológica
+Para la creación de los códigos R se utilizó como apoyo ChatGPT 4. En todo caso, fueron corroborados, modificados y adaptados según su respuesta en R Studio 2023.12.1 para Windows.
+
 ## Estructura del Repositorio
 
 - `/src`: Contiene scripts de R para el análisis y visualización de datos en la carpeta `/img`.
@@ -38,11 +41,8 @@ Para reproducir este análisis, siga estos pasos:
 1. Clonar el repositorio a su máquina local.
 2. Abrir RStudio y establecer el directorio del repositorio clonado como su directorio de trabajo.
 3. Instalar los paquetes de R necesarios ejecutando `install.packages(c("dplyr", "ggplot2", "leaflet", "readr", "tidyr", "DT", "plotly", "highcharter", "stringr", "janitor", "lubridate", "sf"))`.
+4. Descargar y reemplazar dataset dataset_GTD.csv según indicaciones en `/data/Data Set.md`
 4. Ejecutar los scripts en el directorio `/src` en orden.
-
-## Licencia y Reconocimientos
-
-Este análisis se realiza bajo una licencia de uso no comercial, según los términos establecidos por la Universidad de Maryland y el consorcio START. Los datos del GTD pueden utilizarse libremente para fines de investigación, citando debidamente la fuente como se indica en la sección "Tus Responsabilidades" del acuerdo de licencia.
 
 ## Contacto
 
