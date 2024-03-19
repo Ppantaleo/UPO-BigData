@@ -29,7 +29,7 @@ Para la creación de los códigos R se utilizó como apoyo ChatGPT 4. En todo ca
 
 ## Estructura del Repositorio
 
-- `/src`: Contiene scripts de R para el análisis y visualización de datos en la carpeta `/img`.
+- `/src`: Contiene scripts de R para el análisis y visualización de datos en la carpeta `/img`. Para visualizar correctamente los archivos `html` exportados en R, se recomienda descargar los mismos y ejecutarlos en local.
 - `/data`: Directorio para los datasets utilizados y generados durante el análisis. Inicialmente se pensó cargar el dataset en formato CSV pero por su tamaño solo se colocó el enlace para redirigir al sitio oficial para su descarga. Por defecto, en todo código se toma /data/dataset_GTD.csv como el dataset existente que deberá descargar, renombrar y colocar en esta carpeta para que los códigos de /src sean rápidamente funcionales. 
 - `/docs`: Documentación adicional, incluyendo el GTD Codebook.
 - `README.md`: Descripción del proyecto, metodología, estructura del repositorio y cómo ejecutar los scripts.
