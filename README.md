@@ -27,7 +27,7 @@ Este análisis se realiza utilizando R y RStudio, aprovechando paquetes como `dp
 ## Estructura del Repositorio
 
 - `/src`: Contiene scripts de R para el análisis y visualización de datos en la carpeta `/img`.
-- `/data`: Directorio para los datasets utilizados y generados durante el análisis.
+- `/data`: Directorio para los datasets utilizados y generados durante el análisis. Inicialmente se pensó cargar el dataset en formato CSV pero por su tamaño solo se colocó el enlace para redirigir al sitio oficial para su descarga. Por defecto, en todo código se toma /data/dataset_GTD.csv como el dataset existente que deberá descargar, renombrar y colocar en esta carpeta para que los códigos de /src sean rápidamente funcionales. 
 - `/docs`: Documentación adicional, incluyendo el GTD Codebook.
 - `README.md`: Descripción del proyecto, metodología, estructura del repositorio y cómo ejecutar los scripts.
 
